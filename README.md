@@ -114,7 +114,7 @@ Open in browser:
 
 ## 👨‍💻 Author
 
-Developed by **Nidhi Dhameliya**
+Developed by **Jayveer Jebaliya**
 
 ---
 
